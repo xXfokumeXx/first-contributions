@@ -192,6 +192,7 @@
 - [Schamir Poliard🔥🔥🔥](https://github.com/schamiir)
 - [Magnus Jensen]
 - [Eric Clayton]
+- [Radek Černý](https://github.com/xXfokumeXx)
 - [Marvin Roque](https://github.com/Marveeeen)
 - [Makendran G](https://github.com/makendrang)
 - [Mikkel Unrau](https://github.com/mikkelau)
